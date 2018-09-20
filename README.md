@@ -6,3 +6,5 @@ My first git repository
 最简单的js输出Hello World！
 ## nodejs-index.js
 最简单的nodejs输出Hello World!
+## php-index.php
+最简单的php输出Hello World!
