@@ -8,3 +8,5 @@ My first git repository
 最简单的nodejs输出Hello World!
 ## php-index.php
 最简单的php输出Hello World!
+## c-index.c
+最简单的c输出Hello World!
