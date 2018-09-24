@@ -12,3 +12,5 @@ My first git repository
 最简单的c输出Hello World!
 ## cpp-index.cpp
 最简单的c++输出Hello World!
+## c#-index.c#
+最简单的c#输出Hello World!
