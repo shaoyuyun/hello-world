@@ -13,6 +13,6 @@ My first git repository
 ## cpp-index.cpp
 [最简单的c++输出Hello World!](https://github.com/shaoyuyun/hello-world/blob/master/cpp-index.cpp)
 ## c#-index.cs
-[最简单的c#输出Hello World!](https://github.com/shaoyuyun/hello-world/blob/master/c#-index.cs)
+[最简单的c#输出Hello World!](https://github.com/shaoyuyun/hello-world/blob/master/c%23-index.cs)
 ## python-index.py
 [最简单的python输出Hello World!](https://github.com/shaoyuyun/hello-world/blob/master/python-index.py)
